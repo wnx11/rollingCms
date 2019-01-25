@@ -1,0 +1,63 @@
+{
+		"viewManagement": [
+			{
+				"title": "平面视图",
+				"icon": "icon-text",
+				"href": "/rollingCms/view/plane.jhtml",
+				"spread": false
+			},
+			{
+				"title": "三维视图",
+				"icon": "icon-text",
+				"href": "/rollingCms/view/three.jhtml",
+				"spread": false
+			}
+		
+		],
+		"dikeManagement": [
+			{
+				"title": "工程基本信息",
+				"icon": "icon-text",
+				"href": "/rollingCms/project/project.jhtml",
+				"spread": false
+			},
+			{
+				"title": "车辆管理",
+				"icon": "icon-text",
+				"href": "/rollingCms/project/car.jhtml",
+				"spread": false
+			},
+			{
+				"title": "司机管理",
+				"icon": "icon-text",
+				"href": "/rollingCms/project/driver.jhtml",
+				"spread": false
+			}
+		
+		],
+		"workBinManagement": [
+			{
+				"title": "碾压机环绕范围确定",
+				"icon": "icon-text",
+				"href": "/rollingCms/workBin/roller.jhtml",
+				"spread": false
+			},
+			{
+				"title": "RTK测点确定范围",
+				"icon": "icon-text",
+				"href": "/rollingCms/workBin/rtk.jhtml",
+				"spread": false
+			}
+		],
+		"realtimeManagement": [
+			
+		],
+		"historyManagement": [
+			
+		],
+		"reportManagement": [
+			
+		]
+}
+
+
